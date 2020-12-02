@@ -11,6 +11,10 @@ In this repo you will find a json file updated from time-to-time if the list of 
 
 `aws_services.json`
 
+You can find the raw file here:
+
+`https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json`
+
 ## This project uses
 
 This project uses Python to scrape the AWS services page and generate a json file with the service name, the service category and a description.
