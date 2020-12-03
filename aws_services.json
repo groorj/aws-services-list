@@ -1,1 +1,1220 @@
-{"Info": {"OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json", "GeneratedAt": "2020-12-02 23:32:34.482395+00:00"}, "Services": {"Analytics": {"Amazon Athena": {"FullName": "Amazon Athena", "Description": "Query Data in S3 using SQL"}, "Amazon CloudSearch": {"FullName": "Amazon CloudSearch", "Description": "Managed Search Service"}, "Amazon Elasticsearch Service": {"FullName": "Amazon Elasticsearch Service", "Description": "Run and Scale Elasticsearch Clusters"}, "Amazon EMR": {"FullName": "Amazon EMR", "Description": "Hosted Hadoop Framework"}, "Amazon Kinesis": {"FullName": "Amazon Kinesis", "Description": "Work with Real-time Streaming Data"}, "Amazon Managed Streaming for Apache Kafka": {"FullName": "Amazon Managed Streaming for Apache Kafka", "Description": "Fully managed Apache Kafka service"}, "Amazon Redshift": {"FullName": "Amazon Redshift", "Description": "Fast, Simple, Cost-effective Data Warehousing"}, "Amazon QuickSight": {"FullName": "Amazon QuickSight", "Description": "Fast Business Analytics Service"}, "AWS Data Exchange": {"FullName": "AWS Data Exchange", "Description": "Find, subscribe to, and use third-party data in the cloud"}, "AWS Data Pipeline": {"FullName": "AWS Data Pipeline", "Description": "Orchestration Service for Periodic, Data-driven Workflows"}, "AWS Glue": {"FullName": "AWS Glue", "Description": "Simple, scalable, and serverless data integration"}, "AWS Lake Formation": {"FullName": "AWS Lake Formation", "Description": "Build a secure data lake in days"}}, "Application Integration": {"AWS Step Functions": {"FullName": "AWS Step Functions", "Description": "Coordinate Distributed Applications"}, "Amazon AppFlow": {"FullName": "Amazon AppFlow", "Description": "No code integration for SaaS apps & AWS services"}, "Amazon EventBridge": {"FullName": "Amazon EventBridge", "Description": "Serverless event bus for SaaS apps & AWS services"}, "Amazon Managed Workflows for Apache Airflow": {"FullName": "Amazon Managed Workflows for Apache Airflow", "Description": "Highly available, secure, and managed workflow orchestration"}, "Amazon MQ": {"FullName": "Amazon MQ", "Description": "Managed Message Broker Service"}, "Amazon Simple Notification Service (SNS)": {"FullName": "Amazon Simple Notification Service (SNS)", "Description": "Pub/sub, SMS, email, and mobile push notifications"}, "Amazon Simple Queue Service (SQS) ": {"FullName": "Amazon Simple Queue Service (SQS) ", "Description": "Managed Message Queues"}, "Amazon AppSync": {"FullName": "Amazon AppSync", "Description": "Power your apps with the right data from many sources, at scale"}}, "AWS Cost Management": {"AWS Cost Explorer": {"FullName": "AWS Cost Explorer", "Description": "Analyze Your AWS Cost and Usage"}, "AWS Budgets": {"FullName": "AWS Budgets", "Description": "Set Custom Cost and Usage Budgets"}, "AWS Cost and Usage Report": {"FullName": "AWS Cost and Usage Report", "Description": "Access Comprehensive Cost and Usage Information"}, "Reserved Instance Reporting": {"FullName": "Reserved Instance Reporting", "Description": "Dive Deeper into Your Reserved Instances (RIs)"}, "Savings Plans": {"FullName": "Savings Plans", "Description": "Save up to 72% on compute usage with flexible pricing"}}, "Blockchain": {"Amazon Managed Blockchain": {"FullName": "Amazon Managed Blockchain", "Description": "Create and manage scalable blockchain networks"}, "Amazon Quantum Ledger Database (QLDB)": {"FullName": "Amazon Quantum Ledger Database (QLDB)", "Description": "Fully managed ledger database"}}, "Business Applications": {"Alexa for Business": {"FullName": "Alexa for Business", "Description": "Empower your Organization with Alexa"}, "Amazon Chime": {"FullName": "Amazon Chime", "Description": "Frustration-free Meetings, Video Calls, and Chat"}, "Amazon Honeycode (Beta)": {"FullName": "Amazon Honeycode (Beta)", "Description": "Build mobile & web apps without programming"}, "Amazon WorkDocs": {"FullName": "Amazon WorkDocs", "Description": "Secure enterprise document storage and sharing"}, "Amazon WorkMail": {"FullName": "Amazon WorkMail", "Description": "Secure and Managed Business Email and Calendaring"}}, "Compute": {"Amazon EC2": {"FullName": "Amazon EC2", "Description": "Virtual Servers in the Cloud"}, "Amazon EC2 Auto Scaling": {"FullName": "Amazon EC2 Auto Scaling", "Description": "Scale Compute Capacity to Meet Demand"}, "Amazon Lightsail": {"FullName": "Amazon Lightsail", "Description": "Launch and Manage Virtual Private Servers"}, "AWS Batch": {"FullName": "AWS Batch", "Description": "Run Batch Jobs at Any Scale"}, "AWS Elastic Beanstalk": {"FullName": "AWS Elastic Beanstalk", "Description": "Run and Manage Web Apps"}, "AWS Lambda": {"FullName": "AWS Lambda", "Description": "Run your Code in Response to Events"}, "AWS Outposts": {"FullName": "AWS Outposts", "Description": "Run AWS services on-premises"}, "AWS Serverless Application Repository": {"FullName": "AWS Serverless Application Repository", "Description": "Discover, Deploy, and Publish Serverless Applications"}, "AWS Snow Family": {"FullName": "AWS Snow Family", "Description": "Physical devices to aggregate and process data in edge locations, then transfer to AWS"}, "AWS Wavelength": {"FullName": "AWS Wavelength", "Description": "Deliver ultra-low latency applications for 5G devices"}, "VMware Cloud on AWS": {"FullName": "VMware Cloud on AWS", "Description": "Build a Hybrid Cloud without Custom Hardware"}}, "Containers": {"Amazon Elastic Container Registry": {"FullName": "Amazon Elastic Container Registry", "Description": "Easily store, manage, and deploy container images"}, "Amazon Elastic Container Service (ECS)": {"FullName": "Amazon Elastic Container Service (ECS)", "Description": "Highly secure, reliable, and scalable way to run containers"}, "Amazon ECS Anywhere (Coming Soon)": {"FullName": "Amazon ECS Anywhere (Coming Soon)", "Description": "ECS on your infrastructure"}, "Amazon Elastic Kubernetes Service (EKS)": {"FullName": "Amazon Elastic Kubernetes Service (EKS)", "Description": "The most trusted way to run Kubernetes"}, "Amazon EKS Anywhere (Coming Soon)": {"FullName": "Amazon EKS Anywhere (Coming Soon)", "Description": "Kubernetes on your infrastructure"}, "Amazon EKS Distro": {"FullName": "Amazon EKS Distro", "Description": "Run consistent Kubernetes clusters"}, "AWS App2Container": {"FullName": "AWS App2Container", "Description": "Containerize and migrate existing applications"}, "AWS Fargate": {"FullName": "AWS Fargate", "Description": "Serverless compute for containers"}, "Red Hat OpenShift Service on AWS": {"FullName": "Red Hat OpenShift Service on AWS", "Description": "Managed Red Hat OpenShift clusters"}}, "Customer Engagement": {"Amazon Connect": {"FullName": "Amazon Connect", "Description": "Cloud-based Contact Center"}, "Amazon Pinpoint": {"FullName": "Amazon Pinpoint", "Description": "Personalized User Engagement Across Channels"}, "Amazon Simple Email Service (SES)": {"FullName": "Amazon Simple Email Service (SES)", "Description": "Email Sending and Receiving"}}, "Database": {"Amazon Aurora": {"FullName": "Amazon Aurora", "Description": "High Performance Managed Relational Database"}, "Amazon Aurora Serverless v2 (Preview)": {"FullName": "Amazon Aurora Serverless v2 (Preview)", "Description": "Instantly scale to >100,000 transactions per second"}, "Amazon DynamoDB": {"FullName": "Amazon DynamoDB", "Description": "Managed NoSQL Database"}, "Amazon DocumentDB (with MongoDB compatibility)": {"FullName": "Amazon DocumentDB (with MongoDB compatibility)", "Description": "Fully managed document database"}, "Amazon ElastiCache": {"FullName": "Amazon ElastiCache", "Description": "In-memory Caching System"}, "Amazon Keyspaces (for Apache Cassandra)": {"FullName": "Amazon Keyspaces (for Apache Cassandra)", "Description": "Managed Cassandra-compatible database"}, "Amazon Neptune ": {"FullName": "Amazon Neptune ", "Description": "Fully Managed Graph Database Service"}, "Amazon Quantum Ledger Database (QLDB)": {"FullName": "Amazon Quantum Ledger Database (QLDB)", "Description": "Fully managed ledger database"}, "Amazon RDS": {"FullName": "Amazon RDS", "Description": "Managed Relational Database Service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB"}, "Amazon RDS on VMware": {"FullName": "Amazon RDS on VMware", "Description": "Automate on-premises database management"}, "Amazon Redshift": {"FullName": "Amazon Redshift", "Description": "Fast, Simple, Cost-effective Data Warehousing"}, "Amazon Timestream": {"FullName": "Amazon Timestream", "Description": "Fully managed time series database"}, "AWS Database Migration Service": {"FullName": "AWS Database Migration Service", "Description": "Migrate Databases with Minimal Downtime"}, "AWS Glue": {"FullName": "AWS Glue", "Description": "Simple, scalable, and serverless data integration"}}, "Developer Tools": {"Amazon CodeGuru": {"FullName": "Amazon CodeGuru", "Description": "Find your most expensive lines of code"}, "Amazon Corretto": {"FullName": "Amazon Corretto", "Description": "Production-ready distribution of OpenJDK"}, "AWS Cloud Development Kit (CDK)": {"FullName": "AWS Cloud Development Kit (CDK)", "Description": "Model cloud infrastructure using code"}, "AWS Cloud9": {"FullName": "AWS Cloud9", "Description": "Write, Run, and Debug Code on a Cloud IDE"}, "AWS CodeArtifact": {"FullName": "AWS CodeArtifact", "Description": "Secure, scalable, and cost-effective artifact management for software development"}, "AWS CodeBuild": {"FullName": "AWS CodeBuild", "Description": "Build and Test Code"}, "AWS CodeCommit": {"FullName": "AWS CodeCommit", "Description": "Store Code in Private Git Repositories"}, "AWS CodeDeploy": {"FullName": "AWS CodeDeploy", "Description": "Automate Code Deployment"}, "AWS CodePipeline": {"FullName": "AWS CodePipeline", "Description": "Release Software using Continuous Delivery"}, "AWS CodeStar": {"FullName": "AWS CodeStar", "Description": "Develop and Deploy AWS Applications "}, "AWS Command Line Interface": {"FullName": "AWS Command Line Interface", "Description": "Unified Tool to Manage AWS Services"}, "AWS Device Farm": {"FullName": "AWS Device Farm", "Description": "Test Android, iOS, and web apps on real devices in the AWS cloud"}, "AWS Tools and SDKs": {"FullName": "AWS Tools and SDKs", "Description": "Tools and SDKs for AWS"}, "AWS X-Ray": {"FullName": "AWS X-Ray", "Description": "Analyze and debug your applications"}}, "End User Computing": {"Amazon AppStream 2.0": {"FullName": "Amazon AppStream 2.0", "Description": "Stream Desktop Applications Securely to a Browser"}, "Amazon WorkDocs": {"FullName": "Amazon WorkDocs", "Description": "Secure enterprise document storage and sharing"}, "Amazon WorkLink": {"FullName": "Amazon WorkLink", "Description": "Enable mobile access to internal websites"}, "Amazon WorkSpaces": {"FullName": "Amazon WorkSpaces", "Description": "Desktop Computing Service"}}, "Front-End Web & Mobile": {"AWS Amplify": {"FullName": "AWS Amplify", "Description": "Build and deploy mobile and web applications"}, "Amazon API Gateway": {"FullName": "Amazon API Gateway", "Description": "Build, Deploy, and Manage APIs"}, "Amazon Pinpoint": {"FullName": "Amazon Pinpoint", "Description": "Personalized User Engagement Across Channels"}, "AWS AppSync": {"FullName": "AWS AppSync", "Description": "Power your apps with the right data from many sources, at scale"}, "AWS Device Farm": {"FullName": "AWS Device Farm", "Description": "Test Android, iOS, and web apps on real devices in the AWS cloud"}}, "Game Tech": {"Amazon GameLift": {"FullName": "Amazon GameLift", "Description": "Simple, Fast, Cost-effective Dedicated Game Server Hosting"}, "Amazon Lumberyard": {"FullName": "Amazon Lumberyard", "Description": "A Free Cross-platform 3D Game Engine with Full Source, Integrated with AWS and Twitch"}}, "Internet of Things": {"AWS IoT Core": {"FullName": "AWS IoT Core", "Description": "Connect Devices to the Cloud"}, "AWS Greengrass": {"FullName": "AWS Greengrass", "Description": "Local Compute, Messaging, and Sync for Devices"}, "AWS IoT 1-Click": {"FullName": "AWS IoT 1-Click", "Description": "One Click Creation of an AWS Lambda Trigger"}, "AWS IoT Analytics": {"FullName": "AWS IoT Analytics", "Description": "Analytics for IoT Devices"}, "AWS IoT Button": {"FullName": "AWS IoT Button", "Description": "Cloud Programmable Dash Button"}, "AWS IoT Device Defender": {"FullName": "AWS IoT Device Defender", "Description": "Security Management for IoT Devices"}, "AWS IoT Device Management": {"FullName": "AWS IoT Device Management", "Description": "Onboard, Organize, and Remotely Manage IoT Devices"}, "AWS IoT Events": {"FullName": "AWS IoT Events", "Description": "IoT event detection and response"}, "AWS IoT SiteWise": {"FullName": "AWS IoT SiteWise", "Description": "IoT data collector and interpreter"}, "AWS IoT Things Graph": {"FullName": "AWS IoT Things Graph", "Description": "Easily connect devices and web services"}, "AWS Partner Device Catalog": {"FullName": "AWS Partner Device Catalog", "Description": "Curated catalog of AWS-compatible IoT hardware"}, "FreeRTOS": {"FullName": "FreeRTOS", "Description": "Real-time operating system for microcontrollers"}}, "Machine Learning": {"Amazon SageMaker": {"FullName": "Amazon SageMaker", "Description": "Build, Train, and Deploy Machine Learning Models at Scale"}, "Amazon Augmented AI": {"FullName": "Amazon Augmented AI", "Description": "Easily implement human review of ML predictions"}, "Amazon CodeGuru": {"FullName": "Amazon CodeGuru", "Description": "Find your most expensive lines of code"}, "Amazon Comprehend": {"FullName": "Amazon Comprehend", "Description": "Discover Insights and Relationships in Text"}, "Amazon DevOps Guru": {"FullName": "Amazon DevOps Guru", "Description": "ML-powered cloud operations service"}, "Amazon Elastic Inference": {"FullName": "Amazon Elastic Inference", "Description": "Deep learning inference acceleration"}, "Amazon Forecast": {"FullName": "Amazon Forecast", "Description": "Increase forecast accuracy using machine learning"}, "Amazon Fraud Detector": {"FullName": "Amazon Fraud Detector", "Description": "Detect more online fraud faster"}, "Amazon Kendra": {"FullName": "Amazon Kendra", "Description": "Reinvent enterprise search with ML"}, "Amazon Lex": {"FullName": "Amazon Lex", "Description": "Build Voice and Text Chatbots"}, "Amazon Lookout for Equipment (Preview)": {"FullName": "Amazon Lookout for Equipment (Preview)", "Description": "Detect abnormal behavior by analyzing sensor data"}, "Amazon Lookout for Vision": {"FullName": "Amazon Lookout for Vision", "Description": "Spot product defects using computer vision"}, "Amazon Monitron": {"FullName": "Amazon Monitron", "Description": "End-to-end system for equipment monitoring"}, "Amazon Personalize": {"FullName": "Amazon Personalize", "Description": "Build real-time recommendations into your applications"}, "Amazon Polly": {"FullName": "Amazon Polly", "Description": "Turn Text into Lifelike Speech"}, "Amazon Rekognition": {"FullName": "Amazon Rekognition", "Description": "Analyze Image and Video"}, "Amazon SageMaker Data Wrangler": {"FullName": "Amazon SageMaker Data Wrangler", "Description": "The fastest way to prepare data for ML"}, "Amazon SageMaker Ground Truth": {"FullName": "Amazon SageMaker Ground Truth", "Description": "Build accurate ML training datasets"}, "Amazon Textract": {"FullName": "Amazon Textract", "Description": "Extract text and data from documents"}, "Amazon Translate": {"FullName": "Amazon Translate", "Description": "Natural and Fluent Language Translation"}, "Amazon Transcribe": {"FullName": "Amazon Transcribe", "Description": "Automatic Speech Recognition"}, "AWS Deep Learning AMIs": {"FullName": "AWS Deep Learning AMIs", "Description": "Quickly Start Deep Learning on EC2"}, "AWS Deep Learning Containers": {"FullName": "AWS Deep Learning Containers", "Description": "Docker images for deep learning"}, "AWS DeepComposer": {"FullName": "AWS DeepComposer", "Description": "ML enabled musical keyboard"}, "AWS DeepLens": {"FullName": "AWS DeepLens", "Description": "Deep Learning Enabled Video Camera"}, "AWS DeepRacer": {"FullName": "AWS DeepRacer", "Description": "Autonomous 1/18th scale race car, driven by ML"}, "AWS Inferentia": {"FullName": "AWS Inferentia", "Description": "Machine learning inference chip"}, "AWS Panorama (Preview)": {"FullName": "AWS Panorama (Preview)", "Description": "Improve operations with computer vision at the edge"}, "PyTorch on AWS": {"FullName": "PyTorch on AWS", "Description": "Flexible open-source machine learning framework"}, "Apache MXNet on AWS": {"FullName": "Apache MXNet on AWS", "Description": "Scalable, High-performance Deep Learning"}, "TensorFlow on AWS": {"FullName": "TensorFlow on AWS", "Description": "Open-source Machine Intelligence Library"}}, "Management & Governance": {"Amazon CloudWatch": {"FullName": "Amazon CloudWatch", "Description": "Monitor Resources and Applications"}, "AWS Auto Scaling": {"FullName": "AWS Auto Scaling", "Description": "Scale Multiple Resources to Meet Demand"}, "AWS Chatbot": {"FullName": "AWS Chatbot", "Description": "ChatOps for AWS"}, "AWS CloudFormation": {"FullName": "AWS CloudFormation", "Description": "Create and Manage Resources with Templates"}, "AWS CloudTrail": {"FullName": "AWS CloudTrail", "Description": "Track User Activity and API Usage"}, "AWS Command Line Interface": {"FullName": "AWS Command Line Interface", "Description": "Unified tool to manage AWS services"}, "AWS Compute Optimizer": {"FullName": "AWS Compute Optimizer", "Description": "Identify optimal AWS Compute resources"}, "AWS Config": {"FullName": "AWS Config", "Description": "Track Resource Inventory and Changes"}, "AWS Control Tower": {"FullName": "AWS Control Tower", "Description": "Set up and govern a secure, compliant, multi-account environment"}, "AWS Console Mobile Application": {"FullName": "AWS Console Mobile Application", "Description": "Access resources on the go"}, "AWS Distro for OpenTelemetry (Preview)": {"FullName": "AWS Distro for OpenTelemetry (Preview)", "Description": "Collect correlated metrics and traces"}, "AWS License Manager": {"FullName": "AWS License Manager", "Description": "Track, manage, and control licenses"}, "AWS Management Console": {"FullName": "AWS Management Console", "Description": "Web-based user interface"}, "AWS Managed Services": {"FullName": "AWS Managed Services", "Description": "Infrastructure operations management for AWS"}, "AWS OpsWorks": {"FullName": "AWS OpsWorks", "Description": "Automate Operations with Chef and Puppet"}, "AWS Organizations": {"FullName": "AWS Organizations", "Description": "Central governance and management across AWS accounts"}, "AWS Personal Health Dashboard": {"FullName": "AWS Personal Health Dashboard", "Description": "Personalized View of AWS Service Health"}, "AWS Proton (Preview)": {"FullName": "AWS Proton (Preview)", "Description": "Automated management for container and serverless deployment"}, "AWS Service Catalog": {"FullName": "AWS Service Catalog", "Description": "Create and Use Standardized Products"}, "AWS Systems Manager": {"FullName": "AWS Systems Manager", "Description": "Gain Operational Insights and Take Action"}, "AWS Trusted Advisor": {"FullName": "AWS Trusted Advisor", "Description": "Optimize Performance and Security"}, "AWS Well-Architected Tool": {"FullName": "AWS Well-Architected Tool", "Description": "Review and improve your workloads"}}, "Media Services": {"Amazon Elastic Transcoder": {"FullName": "Amazon Elastic Transcoder", "Description": "Easy-to-use Scalable Media Transcoding"}, "Amazon Interactive Video Service": {"FullName": "Amazon Interactive Video Service", "Description": "Managed Live Video Solution"}, "Amazon Kinesis Video Streams": {"FullName": "Amazon Kinesis Video Streams", "Description": "Process and Analyze Video Streams"}, "AWS Elemental MediaConnect": {"FullName": "AWS Elemental MediaConnect", "Description": "Reliable and secure live video transport"}, "AWS Elemental MediaConvert": {"FullName": "AWS Elemental MediaConvert", "Description": "Convert File-based Video Content"}, "AWS Elemental MediaLive": {"FullName": "AWS Elemental MediaLive", "Description": "Convert Live Video Content"}, "AWS Elemental MediaPackage": {"FullName": "AWS Elemental MediaPackage", "Description": "Video Origination and Packaging"}, "AWS Elemental MediaStore": {"FullName": "AWS Elemental MediaStore", "Description": "Media Storage and Simple HTTP Origin"}, "AWS Elemental MediaTailor": {"FullName": "AWS Elemental MediaTailor", "Description": "Video Personalization and Monetization"}, "AWS Elemental Appliances & Software": {"FullName": "AWS Elemental Appliances & Software", "Description": "On-premises media solutions"}}, "Migration & Transfer": {"AWS Migration Hub": {"FullName": "AWS Migration Hub", "Description": "Track Migrations from a Single Place"}, "AWS Application Discovery Service": {"FullName": "AWS Application Discovery Service", "Description": "Discover On-Premises Applications to Streamline Migration"}, "AWS Database Migration Service": {"FullName": "AWS Database Migration Service", "Description": "Migrate Databases with Minimal Downtime"}, "AWS DataSync": {"FullName": "AWS DataSync", "Description": "Simple, fast, online data transfer"}, "AWS Server Migration Service ": {"FullName": "AWS Server Migration Service ", "Description": "Migrate On-Premises Servers to AWS"}, "AWS Snow Family": {"FullName": "AWS Snow Family", "Description": "Physical devices to migrate data into and out of AWS"}, "AWS Transfer Family": {"FullName": "AWS Transfer Family", "Description": "Fully managed SFTP, FTPS, and FTP service"}, "CloudEndure Migration": {"FullName": "CloudEndure Migration", "Description": "Automate your mass migration to AWS"}, "Migration Evaluator (formerly TSO Logic)": {"FullName": "Migration Evaluator (formerly TSO Logic)", "Description": "Create a business case for cloud migration"}}, "Networking & Content Delivery": {"Amazon VPC": {"FullName": "Amazon VPC", "Description": "Isolated Cloud Resources"}, "Amazon API Gateway": {"FullName": "Amazon API Gateway", "Description": "Build, Deploy, and Manage APIs"}, "Amazon CloudFront": {"FullName": "Amazon CloudFront", "Description": "Global Content Delivery Network"}, "Amazon Route 53": {"FullName": "Amazon Route 53", "Description": "Scalable Domain Name System"}, "AWS PrivateLink": {"FullName": "AWS PrivateLink", "Description": "Securely Access Services Hosted on AWS"}, "AWS App Mesh": {"FullName": "AWS App Mesh", "Description": "Monitor and control microservices"}, "AWS Cloud Map": {"FullName": "AWS Cloud Map", "Description": "Application resource registry for microservices"}, "AWS Direct Connect": {"FullName": "AWS Direct Connect", "Description": "Dedicated Network Connection to AWS"}, "AWS Global Accelerator": {"FullName": "AWS Global Accelerator", "Description": "Improve application availability and performance"}, "AWS Transit Gateway": {"FullName": "AWS Transit Gateway", "Description": "Easily scale VPC and account connections"}, "Elastic Load Balancing": {"FullName": "Elastic Load Balancing", "Description": "Distribute incoming traffic across multiple targets"}}, "Quantum Technologies": {"Amazon Braket": {"FullName": "Amazon Braket", "Description": "Explore and experiment with quantum computing"}}, "Robotics": {"AWS RoboMaker": {"FullName": "AWS RoboMaker", "Description": "Develop, test, and deploy robotics applications"}}, "Satellite": {"AWS Ground Station": {"FullName": "AWS Ground Station", "Description": "Fully managed ground station as a service"}}, "Security, Identity & Compliance": {"AWS Identity & Access Management": {"FullName": "AWS Identity & Access Management", "Description": "Securely manage access to services and resources"}, "Amazon Cognito": {"FullName": "Amazon Cognito", "Description": "Identity Management for your Apps"}, "Amazon Detective": {"FullName": "Amazon Detective", "Description": "Investigate potential security issues"}, "Amazon GuardDuty": {"FullName": "Amazon GuardDuty", "Description": "Managed Threat Detection Service"}, "Amazon Inspector": {"FullName": "Amazon Inspector", "Description": "Analyze Application Security"}, "Amazon Macie": {"FullName": "Amazon Macie", "Description": "Discover and protect your sensitive data at scale"}, "AWS Artifact": {"FullName": "AWS Artifact", "Description": "On-demand access to AWS compliance reports"}, "AWS Certificate Manager": {"FullName": "AWS Certificate Manager", "Description": "Provision, Manage, and Deploy SSL/TLS Certificates"}, "AWS CloudHSM": {"FullName": "AWS CloudHSM", "Description": "Hardware-based Key Storage for Regulatory Compliance"}, "AWS Directory Service": {"FullName": "AWS Directory Service", "Description": "Host and Manage Active Directory"}, "AWS Firewall Manager": {"FullName": "AWS Firewall Manager", "Description": "Central Management of Firewall Rules"}, "AWS Key Management Service": {"FullName": "AWS Key Management Service", "Description": "Managed Creation and Control of Encryption Keys"}, "AWS Network Firewall": {"FullName": "AWS Network Firewall", "Description": "Network security to protect your VPCs"}, "AWS Resource Access Manager": {"FullName": "AWS Resource Access Manager", "Description": "Simple, secure service to share AWS resources"}, "AWS Secrets Manager": {"FullName": "AWS Secrets Manager", "Description": "Rotate, Manage, and Retrieve Secrets"}, "AWS Security Hub": {"FullName": "AWS Security Hub", "Description": "Unified security and compliance center"}, "AWS Shield": {"FullName": "AWS Shield", "Description": "DDoS Protection"}, "AWS Single Sign-On": {"FullName": "AWS Single Sign-On", "Description": "Cloud Single Sign-On (SSO) Service"}, "AWS WAF": {"FullName": "AWS WAF", "Description": "Filter Malicious Web Traffic"}}, "Serverless": {"AWS Lambda": {"FullName": "AWS Lambda", "Description": "Run code without thinking about servers"}, "Amazon API Gateway": {"FullName": "Amazon API Gateway", "Description": "Build, deploy, and manage API's"}, "Amazon DynamoDB": {"FullName": "Amazon DynamoDB", "Description": "Managed NoSQL database"}, "Amazon EventBridge": {"FullName": "Amazon EventBridge", "Description": "Serverless event bus for SaaS apps & AWS services"}, "Amazon Simple Notification Service (SNS)": {"FullName": "Amazon Simple Notification Service (SNS)", "Description": "Pub/sub, SMS, email, and mobile push notifications"}, "Amazon Simple Queue Service (SQS) ": {"FullName": "Amazon Simple Queue Service (SQS) ", "Description": "Managed message queues"}, "Amazon Simple Storage Service (S3)": {"FullName": "Amazon Simple Storage Service (S3)", "Description": "Scalable storage in the cloud"}, "AWS AppSync": {"FullName": "AWS AppSync", "Description": "Power your apps with the right data from many sources, at scale"}, "AWS Fargate": {"FullName": "AWS Fargate", "Description": "Serverless compute for containers"}, "AWS Step Functions": {"FullName": "AWS Step Functions", "Description": "Coordination for distributed applications"}}, "Storage": {"Amazon Simple Storage Service (S3)": {"FullName": "Amazon Simple Storage Service (S3)", "Description": "Scalable Storage in the Cloud"}, "Amazon Elastic Block Store (EBS)": {"FullName": "Amazon Elastic Block Store (EBS)", "Description": "EC2 block storage volumes"}, "Amazon Elastic File System (EFS)": {"FullName": "Amazon Elastic File System (EFS)", "Description": "Fully managed file system for EC2"}, "Amazon FSx for Lustre": {"FullName": "Amazon FSx for Lustre", "Description": "High-performance file system integrated with S3"}, "Amazon FSx for Windows File Server": {"FullName": "Amazon FSx for Windows File Server", "Description": "Fully managed Windows native file system"}, "Amazon S3 Glacier": {"FullName": "Amazon S3 Glacier", "Description": "Low-cost Archive Storage in the Cloud"}, "AWS Backup": {"FullName": "AWS Backup", "Description": "Centralized backup across AWS services"}, "AWS Snow Family": {"FullName": "AWS Snow Family", "Description": "Physical edge computing and storage devices for rugged or disconnected environments"}, "AWS Storage Gateway": {"FullName": "AWS Storage Gateway", "Description": "Hybrid Storage Integration"}, "CloudEndure Disaster Recovery": {"FullName": "CloudEndure Disaster Recovery", "Description": "Highly automated disaster recovery"}}, "VR & AR": {"Amazon Sumerian": {"FullName": "Amazon Sumerian", "Description": "Build and Run VR and AR Applications"}}}}
+{
+    "Info": {
+        "GeneratedAt": "2020-12-03 21:33:03.968023+00:00",
+        "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
+    },
+    "Services": {
+        "AWS Cost Management": {
+            "AWS Budgets": {
+                "Description": "Set Custom Cost and Usage Budgets",
+                "FullName": "AWS Budgets",
+                "Url": "https://aws.amazon.com/aws-cost-management/aws-budgets/?c=4&pt=2"
+            },
+            "AWS Cost Explorer": {
+                "Description": "Analyze Your AWS Cost and Usage",
+                "FullName": "AWS Cost Explorer",
+                "Url": "https://aws.amazon.com/aws-cost-management/aws-cost-explorer/?c=4&pt=1"
+            },
+            "AWS Cost and Usage Report": {
+                "Description": "Access Comprehensive Cost and Usage Information",
+                "FullName": "AWS Cost and Usage Report",
+                "Url": "https://aws.amazon.com/aws-cost-management/aws-cost-and-usage-reporting/?c=4&pt=3"
+            },
+            "Reserved Instance Reporting": {
+                "Description": "Dive Deeper into Your Reserved Instances (RIs)",
+                "FullName": "Reserved Instance Reporting",
+                "Url": "https://aws.amazon.com/aws-cost-management/reserved-instance-reporting/?c=4&pt=4"
+            },
+            "Savings Plans": {
+                "Description": "Save up to 72% on compute usage with flexible pricing",
+                "FullName": "Savings Plans",
+                "Url": "https://aws.amazon.com/savingsplans/?c=4&pt=5"
+            }
+        },
+        "Analytics": {
+            "AWS Data Exchange": {
+                "Description": "Find, subscribe to, and use third-party data in the cloud",
+                "FullName": "AWS Data Exchange",
+                "Url": "https://aws.amazon.com/data-exchange/?c=1&pt=9"
+            },
+            "AWS Data Pipeline": {
+                "Description": "Orchestration Service for Periodic, Data-driven Workflows",
+                "FullName": "AWS Data Pipeline",
+                "Url": "https://aws.amazon.com/datapipeline/?c=1&pt=10"
+            },
+            "AWS Glue": {
+                "Description": "Simple, scalable, and serverless data integration",
+                "FullName": "AWS Glue",
+                "Url": "https://aws.amazon.com/glue/?c=1&pt=11"
+            },
+            "AWS Lake Formation": {
+                "Description": "Build a secure data lake in days",
+                "FullName": "AWS Lake Formation",
+                "Url": "https://aws.amazon.com/lake-formation/?c=1&pt=12"
+            },
+            "Amazon Athena": {
+                "Description": "Query Data in S3 using SQL",
+                "FullName": "Amazon Athena",
+                "Url": "https://aws.amazon.com/athena/?c=1&pt=1"
+            },
+            "Amazon CloudSearch": {
+                "Description": "Managed Search Service",
+                "FullName": "Amazon CloudSearch",
+                "Url": "https://aws.amazon.com/cloudsearch/?c=1&pt=2"
+            },
+            "Amazon EMR": {
+                "Description": "Hosted Hadoop Framework",
+                "FullName": "Amazon EMR",
+                "Url": "https://aws.amazon.com/elasticmapreduce/?c=1&pt=4"
+            },
+            "Amazon Elasticsearch Service": {
+                "Description": "Run and Scale Elasticsearch Clusters",
+                "FullName": "Amazon Elasticsearch Service",
+                "Url": "https://aws.amazon.com/elasticsearch-service/?c=1&pt=3"
+            },
+            "Amazon Kinesis": {
+                "Description": "Work with Real-time Streaming Data",
+                "FullName": "Amazon Kinesis",
+                "Url": "https://aws.amazon.com/kinesis/?c=1&pt=5"
+            },
+            "Amazon Managed Streaming for Apache Kafka": {
+                "Description": "Fully managed Apache Kafka service",
+                "FullName": "Amazon Managed Streaming for Apache Kafka",
+                "Url": "https://aws.amazon.com/msk/?c=1&pt=6"
+            },
+            "Amazon QuickSight": {
+                "Description": "Fast Business Analytics Service",
+                "FullName": "Amazon QuickSight",
+                "Url": "https://aws.amazon.com/quicksight/?c=1&pt=8"
+            },
+            "Amazon Redshift": {
+                "Description": "Fast, Simple, Cost-effective Data Warehousing",
+                "FullName": "Amazon Redshift",
+                "Url": "https://aws.amazon.com/redshift/?c=1&pt=7"
+            }
+        },
+        "Application Integration": {
+            "AWS Step Functions": {
+                "Description": "Coordinate Distributed Applications",
+                "FullName": "AWS Step Functions",
+                "Url": "https://aws.amazon.com/step-functions/?c=2&pt=1"
+            },
+            "Amazon AppFlow": {
+                "Description": "No code integration for SaaS apps & AWS services",
+                "FullName": "Amazon AppFlow",
+                "Url": "https://aws.amazon.com/appflow/?c=2&pt=2a"
+            },
+            "Amazon AppSync": {
+                "Description": "Power your apps with the right data from many sources, at scale",
+                "FullName": "Amazon AppSync",
+                "Url": "https://aws.amazon.com/appsync/?c=2&pt=6"
+            },
+            "Amazon EventBridge": {
+                "Description": "Serverless event bus for SaaS apps & AWS services",
+                "FullName": "Amazon EventBridge",
+                "Url": "https://aws.amazon.com/eventbridge/?c=2&pt=2"
+            },
+            "Amazon MQ": {
+                "Description": "Managed Message Broker Service",
+                "FullName": "Amazon MQ",
+                "Url": "https://aws.amazon.com/amazon-mq/?c=2&pt=3"
+            },
+            "Amazon Managed Workflows for Apache Airflow": {
+                "Description": "Highly available, secure, and managed workflow orchestration",
+                "FullName": "Amazon Managed Workflows for Apache Airflow",
+                "Url": "https://aws.amazon.com/managed-workflows-for-apache-airflow/?c=2&pt=3a"
+            },
+            "Amazon Simple Notification Service (SNS)": {
+                "Description": "Pub/sub, SMS, email, and mobile push notifications",
+                "FullName": "Amazon Simple Notification Service (SNS)",
+                "Url": "https://aws.amazon.com/sns/?c=2&pt=4"
+            },
+            "Amazon Simple Queue Service (SQS) ": {
+                "Description": "Managed Message Queues",
+                "FullName": "Amazon Simple Queue Service (SQS) ",
+                "Url": "https://aws.amazon.com/sqs/?c=2&pt=5"
+            }
+        },
+        "Blockchain": {
+            "Amazon Managed Blockchain": {
+                "Description": "Create and manage scalable blockchain networks",
+                "FullName": "Amazon Managed Blockchain",
+                "Url": "https://aws.amazon.com/managed-blockchain/?c=5&pt=1"
+            },
+            "Amazon Quantum Ledger Database (QLDB)": {
+                "Description": "Fully managed ledger database",
+                "FullName": "Amazon Quantum Ledger Database (QLDB)",
+                "Url": "https://aws.amazon.com/qldb/?c=5&pt=2"
+            }
+        },
+        "Business Applications": {
+            "Alexa for Business": {
+                "Description": "Empower your Organization with Alexa",
+                "FullName": "Alexa for Business",
+                "Url": "https://aws.amazon.com/alexaforbusiness/?c=6&pt=1"
+            },
+            "Amazon Chime": {
+                "Description": "Frustration-free Meetings, Video Calls, and Chat",
+                "FullName": "Amazon Chime",
+                "Url": "https://aws.amazon.com/chime/?c=6&pt=2"
+            },
+            "Amazon Honeycode (Beta)": {
+                "Description": "Build mobile & web apps without programming",
+                "FullName": "Amazon Honeycode (Beta)",
+                "Url": "https://aws.amazon.comhttps://www.honeycode.aws/?&trk=el_a134p000003yC6YAAU&trkCampaign=pac-edm-2020-honeycode-homepage&sc_channel=el&sc_campaign=pac-edm-2020-honeycode-website_links-adoption-aws_global_menu_products_link&sc_outcome=Enterprise_Digital_Marketing&sc_geo=NAMER&sc_country=mult"
+            },
+            "Amazon WorkDocs": {
+                "Description": "Secure enterprise document storage and sharing",
+                "FullName": "Amazon WorkDocs",
+                "Url": "https://aws.amazon.com/workdocs/?c=6&pt=3"
+            },
+            "Amazon WorkMail": {
+                "Description": "Secure and Managed Business Email and Calendaring",
+                "FullName": "Amazon WorkMail",
+                "Url": "https://aws.amazon.com/workmail/?c=6&pt=4"
+            }
+        },
+        "Compute": {
+            "AWS Batch": {
+                "Description": "Run Batch Jobs at Any Scale",
+                "FullName": "AWS Batch",
+                "Url": "https://aws.amazon.com/batch/?c=7&pt=7"
+            },
+            "AWS Elastic Beanstalk": {
+                "Description": "Run and Manage Web Apps",
+                "FullName": "AWS Elastic Beanstalk",
+                "Url": "https://aws.amazon.com/elasticbeanstalk/?c=7&pt=8"
+            },
+            "AWS Lambda": {
+                "Description": "Run your Code in Response to Events",
+                "FullName": "AWS Lambda",
+                "Url": "https://aws.amazon.com/lambda/?c=7&pt=10"
+            },
+            "AWS Outposts": {
+                "Description": "Run AWS services on-premises",
+                "FullName": "AWS Outposts",
+                "Url": "https://aws.amazon.com/outposts/?c=7&pt=11"
+            },
+            "AWS Serverless Application Repository": {
+                "Description": "Discover, Deploy, and Publish Serverless Applications",
+                "FullName": "AWS Serverless Application Repository",
+                "Url": "https://aws.amazon.com/serverlessrepo/?c=7&pt=12"
+            },
+            "AWS Snow Family": {
+                "Description": "Physical devices to aggregate and process data in edge locations, then transfer to AWS",
+                "FullName": "AWS Snow Family",
+                "Url": "https://aws.amazon.com/snow/?c=7&pt=12a"
+            },
+            "AWS Wavelength": {
+                "Description": "Deliver ultra-low latency applications for 5G devices",
+                "FullName": "AWS Wavelength",
+                "Url": "https://aws.amazon.com/wavelength/?c=7&pt=13"
+            },
+            "Amazon EC2": {
+                "Description": "Virtual Servers in the Cloud",
+                "FullName": "Amazon EC2",
+                "Url": "https://aws.amazon.com/ec2/?c=7&pt=1"
+            },
+            "Amazon EC2 Auto Scaling": {
+                "Description": "Scale Compute Capacity to Meet Demand",
+                "FullName": "Amazon EC2 Auto Scaling",
+                "Url": "https://aws.amazon.com/ec2/autoscaling/?c=7&pt=2"
+            },
+            "Amazon Lightsail": {
+                "Description": "Launch and Manage Virtual Private Servers",
+                "FullName": "Amazon Lightsail",
+                "Url": "https://aws.amazon.com/lightsail/?c=7&pt=6"
+            },
+            "VMware Cloud on AWS": {
+                "Description": "Build a Hybrid Cloud without Custom Hardware",
+                "FullName": "VMware Cloud on AWS",
+                "Url": "https://aws.amazon.com/vmware/?c=7&pt=14"
+            }
+        },
+        "Containers": {
+            "AWS App2Container": {
+                "Description": "Containerize and migrate existing applications",
+                "FullName": "AWS App2Container",
+                "Url": "https://aws.amazon.com/app2container/?c=7a&pt=1a"
+            },
+            "AWS Fargate": {
+                "Description": "Serverless compute for containers",
+                "FullName": "AWS Fargate",
+                "Url": "https://aws.amazon.com/fargate/?c=7a&pt=4"
+            },
+            "Amazon ECS Anywhere (Coming Soon)": {
+                "Description": "ECS on your infrastructure",
+                "FullName": "Amazon ECS Anywhere (Coming Soon)",
+                "Url": "https://aws.amazon.comhttps://pages.awscloud.com/AmazonECSAnywherePreview.html"
+            },
+            "Amazon EKS Anywhere (Coming Soon)": {
+                "Description": "Kubernetes on your infrastructure",
+                "FullName": "Amazon EKS Anywhere (Coming Soon)",
+                "Url": "https://aws.amazon.com/eks/eks-anywhere/"
+            },
+            "Amazon EKS Distro": {
+                "Description": "Run consistent Kubernetes clusters",
+                "FullName": "Amazon EKS Distro",
+                "Url": "https://aws.amazon.com/eks/eks-distro/"
+            },
+            "Amazon Elastic Container Registry": {
+                "Description": "Easily store, manage, and deploy container images",
+                "FullName": "Amazon Elastic Container Registry",
+                "Url": "https://aws.amazon.com/ecr/?c=7a&pt=1"
+            },
+            "Amazon Elastic Container Service (ECS)": {
+                "Description": "Highly secure, reliable, and scalable way to run containers",
+                "FullName": "Amazon Elastic Container Service (ECS)",
+                "Url": "https://aws.amazon.com/ecs/?c=7a&pt=2"
+            },
+            "Amazon Elastic Kubernetes Service (EKS)": {
+                "Description": "The most trusted way to run Kubernetes",
+                "FullName": "Amazon Elastic Kubernetes Service (EKS)",
+                "Url": "https://aws.amazon.com/eks/?c=7a&pt=3"
+            },
+            "Red Hat OpenShift Service on AWS": {
+                "Description": "Managed Red Hat OpenShift clusters",
+                "FullName": "Red Hat OpenShift Service on AWS",
+                "Url": "https://aws.amazon.com/rosa/?c=7a&pt=5"
+            }
+        },
+        "Customer Engagement": {
+            "Amazon Connect": {
+                "Description": "Cloud-based Contact Center",
+                "FullName": "Amazon Connect",
+                "Url": "https://aws.amazon.com/connect/?c=8&pt=1"
+            },
+            "Amazon Pinpoint": {
+                "Description": "Personalized User Engagement Across Channels",
+                "FullName": "Amazon Pinpoint",
+                "Url": "https://aws.amazon.com/pinpoint/?c=8&pt=2"
+            },
+            "Amazon Simple Email Service (SES)": {
+                "Description": "Email Sending and Receiving",
+                "FullName": "Amazon Simple Email Service (SES)",
+                "Url": "https://aws.amazon.com/ses/?c=8&pt=3"
+            }
+        },
+        "Database": {
+            "AWS Database Migration Service": {
+                "Description": "Migrate Databases with Minimal Downtime",
+                "FullName": "AWS Database Migration Service",
+                "Url": "https://aws.amazon.com/dms/?c=9&pt=12"
+            },
+            "AWS Glue": {
+                "Description": "Simple, scalable, and serverless data integration",
+                "FullName": "AWS Glue",
+                "Url": "https://aws.amazon.com/glue/?c=1&pt=11"
+            },
+            "Amazon Aurora": {
+                "Description": "High Performance Managed Relational Database",
+                "FullName": "Amazon Aurora",
+                "Url": "https://aws.amazon.com/rds/aurora/?c=9&pt=1"
+            },
+            "Amazon Aurora Serverless v2 (Preview)": {
+                "Description": "Instantly scale to >100,000 transactions per second",
+                "FullName": "Amazon Aurora Serverless v2 (Preview)",
+                "Url": "https://aws.amazon.com/rds/aurora/serverless/"
+            },
+            "Amazon DocumentDB (with MongoDB compatibility)": {
+                "Description": "Fully managed document database",
+                "FullName": "Amazon DocumentDB (with MongoDB compatibility)",
+                "Url": "https://aws.amazon.com/documentdb/?c=9&pt=3"
+            },
+            "Amazon DynamoDB": {
+                "Description": "Managed NoSQL Database",
+                "FullName": "Amazon DynamoDB",
+                "Url": "https://aws.amazon.com/dynamodb/?c=9&pt=2"
+            },
+            "Amazon ElastiCache": {
+                "Description": "In-memory Caching System",
+                "FullName": "Amazon ElastiCache",
+                "Url": "https://aws.amazon.com/elasticache/?c=9&pt=4"
+            },
+            "Amazon Keyspaces (for Apache Cassandra)": {
+                "Description": "Managed Cassandra-compatible database",
+                "FullName": "Amazon Keyspaces (for Apache Cassandra)",
+                "Url": "https://aws.amazon.com/keyspaces/?c=9&pt=5"
+            },
+            "Amazon Neptune ": {
+                "Description": "Fully Managed Graph Database Service",
+                "FullName": "Amazon Neptune ",
+                "Url": "https://aws.amazon.com/neptune/?c=9&pt=6"
+            },
+            "Amazon Quantum Ledger Database (QLDB)": {
+                "Description": "Fully managed ledger database",
+                "FullName": "Amazon Quantum Ledger Database (QLDB)",
+                "Url": "https://aws.amazon.com/qldb/?c=9&pt=7"
+            },
+            "Amazon RDS": {
+                "Description": "Managed Relational Database Service for MySQL, PostgreSQL, Oracle, SQL Server, and MariaDB",
+                "FullName": "Amazon RDS",
+                "Url": "https://aws.amazon.com/rds/?c=9&pt=8"
+            },
+            "Amazon RDS on VMware": {
+                "Description": "Automate on-premises database management",
+                "FullName": "Amazon RDS on VMware",
+                "Url": "https://aws.amazon.com/rds/vmware/?c=9&pt=9"
+            },
+            "Amazon Redshift": {
+                "Description": "Fast, Simple, Cost-effective Data Warehousing",
+                "FullName": "Amazon Redshift",
+                "Url": "https://aws.amazon.com/redshift/?c=9&pt=10"
+            },
+            "Amazon Timestream": {
+                "Description": "Fully managed time series database",
+                "FullName": "Amazon Timestream",
+                "Url": "https://aws.amazon.com/timestream/?c=9&pt=11"
+            }
+        },
+        "Developer Tools": {
+            "AWS Cloud Development Kit (CDK)": {
+                "Description": "Model cloud infrastructure using code",
+                "FullName": "AWS Cloud Development Kit (CDK)",
+                "Url": "https://aws.amazon.com/cdk/?c=10&pt=2"
+            },
+            "AWS Cloud9": {
+                "Description": "Write, Run, and Debug Code on a Cloud IDE",
+                "FullName": "AWS Cloud9",
+                "Url": "https://aws.amazon.com/cloud9/?c=10&pt=3"
+            },
+            "AWS CodeArtifact": {
+                "Description": "Secure, scalable, and cost-effective artifact management for software development",
+                "FullName": "AWS CodeArtifact",
+                "Url": "https://aws.amazon.com/codeartifact/?c=10&pt=4a"
+            },
+            "AWS CodeBuild": {
+                "Description": "Build and Test Code",
+                "FullName": "AWS CodeBuild",
+                "Url": "https://aws.amazon.com/codebuild/?c=10&pt=4"
+            },
+            "AWS CodeCommit": {
+                "Description": "Store Code in Private Git Repositories",
+                "FullName": "AWS CodeCommit",
+                "Url": "https://aws.amazon.com/codecommit/?c=10&pt=5"
+            },
+            "AWS CodeDeploy": {
+                "Description": "Automate Code Deployment",
+                "FullName": "AWS CodeDeploy",
+                "Url": "https://aws.amazon.com/codedeploy/?c=10&pt=6"
+            },
+            "AWS CodePipeline": {
+                "Description": "Release Software using Continuous Delivery",
+                "FullName": "AWS CodePipeline",
+                "Url": "https://aws.amazon.com/codepipeline/?c=10&pt=7"
+            },
+            "AWS CodeStar": {
+                "Description": "Develop and Deploy AWS Applications ",
+                "FullName": "AWS CodeStar",
+                "Url": "https://aws.amazon.com/codestar/?c=10&pt=8"
+            },
+            "AWS Command Line Interface": {
+                "Description": "Unified Tool to Manage AWS Services",
+                "FullName": "AWS Command Line Interface",
+                "Url": "https://aws.amazon.com/cli/?c=10&pt=9"
+            },
+            "AWS Device Farm": {
+                "Description": "Test Android, iOS, and web apps on real devices in the AWS cloud",
+                "FullName": "AWS Device Farm",
+                "Url": "https://aws.amazon.com/device-farm/?c=10&pt=10"
+            },
+            "AWS Tools and SDKs": {
+                "Description": "Tools and SDKs for AWS",
+                "FullName": "AWS Tools and SDKs",
+                "Url": "https://aws.amazon.com/getting-started/tools-sdks/?c=10&pt=11"
+            },
+            "AWS X-Ray": {
+                "Description": "Analyze and debug your applications",
+                "FullName": "AWS X-Ray",
+                "Url": "https://aws.amazon.com/xray/?c=10&pt=12"
+            },
+            "Amazon CodeGuru": {
+                "Description": "Find your most expensive lines of code",
+                "FullName": "Amazon CodeGuru",
+                "Url": "https://aws.amazon.com/codeguru/?c=10&pt=1a"
+            },
+            "Amazon Corretto": {
+                "Description": "Production-ready distribution of OpenJDK",
+                "FullName": "Amazon Corretto",
+                "Url": "https://aws.amazon.com/corretto/?c=10&pt=1"
+            }
+        },
+        "End User Computing": {
+            "Amazon AppStream 2.0": {
+                "Description": "Stream Desktop Applications Securely to a Browser",
+                "FullName": "Amazon AppStream 2.0",
+                "Url": "https://aws.amazon.com/appstream2/?c=11&pt=1"
+            },
+            "Amazon WorkDocs": {
+                "Description": "Secure enterprise document storage and sharing",
+                "FullName": "Amazon WorkDocs",
+                "Url": "https://aws.amazon.com/workdocs/?c=11&pt=2"
+            },
+            "Amazon WorkLink": {
+                "Description": "Enable mobile access to internal websites",
+                "FullName": "Amazon WorkLink",
+                "Url": "https://aws.amazon.com/worklink/?c=11&pt=3"
+            },
+            "Amazon WorkSpaces": {
+                "Description": "Desktop Computing Service",
+                "FullName": "Amazon WorkSpaces",
+                "Url": "https://aws.amazon.com/workspaces/?c=11&pt=4"
+            }
+        },
+        "Front-End Web & Mobile": {
+            "AWS Amplify": {
+                "Description": "Build and deploy mobile and web applications",
+                "FullName": "AWS Amplify",
+                "Url": "https://aws.amazon.com/amplify/?c=18&pt=1"
+            },
+            "AWS AppSync": {
+                "Description": "Power your apps with the right data from many sources, at scale",
+                "FullName": "AWS AppSync",
+                "Url": "https://aws.amazon.com/appsync/?c=18&pt=4"
+            },
+            "AWS Device Farm": {
+                "Description": "Test Android, iOS, and web apps on real devices in the AWS cloud",
+                "FullName": "AWS Device Farm",
+                "Url": "https://aws.amazon.com/device-farm/?c=18&pt=5"
+            },
+            "Amazon API Gateway": {
+                "Description": "Build, Deploy, and Manage APIs",
+                "FullName": "Amazon API Gateway",
+                "Url": "https://aws.amazon.com/api-gateway/?c=18&pt=2"
+            },
+            "Amazon Pinpoint": {
+                "Description": "Personalized User Engagement Across Channels",
+                "FullName": "Amazon Pinpoint",
+                "Url": "https://aws.amazon.com/pinpoint/?c=18&pt=3"
+            }
+        },
+        "Game Tech": {
+            "Amazon GameLift": {
+                "Description": "Simple, Fast, Cost-effective Dedicated Game Server Hosting",
+                "FullName": "Amazon GameLift",
+                "Url": "https://aws.amazon.com/gamelift/?c=12&pt=1"
+            },
+            "Amazon Lumberyard": {
+                "Description": "A Free Cross-platform 3D Game Engine with Full Source, Integrated with AWS and Twitch",
+                "FullName": "Amazon Lumberyard",
+                "Url": "https://aws.amazon.com/lumberyard/?c=12&pt=2"
+            }
+        },
+        "Internet of Things": {
+            "AWS Greengrass": {
+                "Description": "Local Compute, Messaging, and Sync for Devices",
+                "FullName": "AWS Greengrass",
+                "Url": "https://aws.amazon.com/greengrass/?c=13&pt=3"
+            },
+            "AWS IoT 1-Click": {
+                "Description": "One Click Creation of an AWS Lambda Trigger",
+                "FullName": "AWS IoT 1-Click",
+                "Url": "https://aws.amazon.com/iot-1-click/?c=13&pt=4"
+            },
+            "AWS IoT Analytics": {
+                "Description": "Analytics for IoT Devices",
+                "FullName": "AWS IoT Analytics",
+                "Url": "https://aws.amazon.com/iot-analytics/?c=13&pt=5"
+            },
+            "AWS IoT Button": {
+                "Description": "Cloud Programmable Dash Button",
+                "FullName": "AWS IoT Button",
+                "Url": "https://aws.amazon.com/iot/button/?c=13&pt=6"
+            },
+            "AWS IoT Core": {
+                "Description": "Connect Devices to the Cloud",
+                "FullName": "AWS IoT Core",
+                "Url": "https://aws.amazon.com/iot-core/?c=13&pt=1"
+            },
+            "AWS IoT Device Defender": {
+                "Description": "Security Management for IoT Devices",
+                "FullName": "AWS IoT Device Defender",
+                "Url": "https://aws.amazon.com/iot-device-defender/?c=13&pt=7"
+            },
+            "AWS IoT Device Management": {
+                "Description": "Onboard, Organize, and Remotely Manage IoT Devices",
+                "FullName": "AWS IoT Device Management",
+                "Url": "https://aws.amazon.com/iot-device-management/?c=13&pt=8"
+            },
+            "AWS IoT Events": {
+                "Description": "IoT event detection and response",
+                "FullName": "AWS IoT Events",
+                "Url": "https://aws.amazon.com/iot-events/?c=13&pt=9"
+            },
+            "AWS IoT SiteWise": {
+                "Description": "IoT data collector and interpreter",
+                "FullName": "AWS IoT SiteWise",
+                "Url": "https://aws.amazon.com/iot-sitewise/?c=13&pt=10"
+            },
+            "AWS IoT Things Graph": {
+                "Description": "Easily connect devices and web services",
+                "FullName": "AWS IoT Things Graph",
+                "Url": "https://aws.amazon.com/iot-things-graph/?c=13&pt=11"
+            },
+            "AWS Partner Device Catalog": {
+                "Description": "Curated catalog of AWS-compatible IoT hardware",
+                "FullName": "AWS Partner Device Catalog",
+                "Url": "https://aws.amazon.com/partners/dqp/?c=13&pt=12"
+            },
+            "FreeRTOS": {
+                "Description": "Real-time operating system for microcontrollers",
+                "FullName": "FreeRTOS",
+                "Url": "https://aws.amazon.com/freertos/?c=13&pt=13"
+            }
+        },
+        "Machine Learning": {
+            "AWS Deep Learning AMIs": {
+                "Description": "Quickly Start Deep Learning on EC2",
+                "FullName": "AWS Deep Learning AMIs",
+                "Url": "https://aws.amazon.com/machine-learning/amis/?c=14&pt=17"
+            },
+            "AWS Deep Learning Containers": {
+                "Description": "Docker images for deep learning",
+                "FullName": "AWS Deep Learning Containers",
+                "Url": "https://aws.amazon.com/machine-learning/containers/?c=14&pt=18"
+            },
+            "AWS DeepComposer": {
+                "Description": "ML enabled musical keyboard",
+                "FullName": "AWS DeepComposer",
+                "Url": "https://aws.amazon.com/deepcomposer/?c=14&pt=19"
+            },
+            "AWS DeepLens": {
+                "Description": "Deep Learning Enabled Video Camera",
+                "FullName": "AWS DeepLens",
+                "Url": "https://aws.amazon.com/deeplens/?c=14&pt=20"
+            },
+            "AWS DeepRacer": {
+                "Description": "Autonomous 1/18th scale race car, driven by ML",
+                "FullName": "AWS DeepRacer",
+                "Url": "https://aws.amazon.com/deepracer/?c=14&pt=21"
+            },
+            "AWS Inferentia": {
+                "Description": "Machine learning inference chip",
+                "FullName": "AWS Inferentia",
+                "Url": "https://aws.amazon.com/inferentia/?c=14&pt=22"
+            },
+            "AWS Panorama (Preview)": {
+                "Description": "Improve operations with computer vision at the edge",
+                "FullName": "AWS Panorama (Preview)",
+                "Url": "https://aws.amazon.com/panorama/"
+            },
+            "Amazon Augmented AI": {
+                "Description": "Easily implement human review of ML predictions",
+                "FullName": "Amazon Augmented AI",
+                "Url": "https://aws.amazon.com/augmented-ai/?c=14&pt=2"
+            },
+            "Amazon CodeGuru": {
+                "Description": "Find your most expensive lines of code",
+                "FullName": "Amazon CodeGuru",
+                "Url": "https://aws.amazon.com/codeguru/?c=14&pt=3"
+            },
+            "Amazon Comprehend": {
+                "Description": "Discover Insights and Relationships in Text",
+                "FullName": "Amazon Comprehend",
+                "Url": "https://aws.amazon.com/comprehend/?c=14&pt=4"
+            },
+            "Amazon DevOps Guru": {
+                "Description": "ML-powered cloud operations service",
+                "FullName": "Amazon DevOps Guru",
+                "Url": "https://aws.amazon.com/devops-guru/"
+            },
+            "Amazon Elastic Inference": {
+                "Description": "Deep learning inference acceleration",
+                "FullName": "Amazon Elastic Inference",
+                "Url": "https://aws.amazon.com/elastic-inference/?c=14&pt=5"
+            },
+            "Amazon Forecast": {
+                "Description": "Increase forecast accuracy using machine learning",
+                "FullName": "Amazon Forecast",
+                "Url": "https://aws.amazon.com/forecast/?c=14&pt=6"
+            },
+            "Amazon Fraud Detector": {
+                "Description": "Detect more online fraud faster",
+                "FullName": "Amazon Fraud Detector",
+                "Url": "https://aws.amazon.com/fraud-detector/?c=14&pt=7"
+            },
+            "Amazon Kendra": {
+                "Description": "Reinvent enterprise search with ML",
+                "FullName": "Amazon Kendra",
+                "Url": "https://aws.amazon.com/kendra/?c=14&pt=8"
+            },
+            "Amazon Lex": {
+                "Description": "Build Voice and Text Chatbots",
+                "FullName": "Amazon Lex",
+                "Url": "https://aws.amazon.com/lex/?c=14&pt=9"
+            },
+            "Amazon Lookout for Equipment (Preview)": {
+                "Description": "Detect abnormal behavior by analyzing sensor data",
+                "FullName": "Amazon Lookout for Equipment (Preview)",
+                "Url": "https://aws.amazon.com/lookout-for-equipment/"
+            },
+            "Amazon Lookout for Vision": {
+                "Description": "Spot product defects using computer vision",
+                "FullName": "Amazon Lookout for Vision",
+                "Url": "https://aws.amazon.com/lookout-for-vision/"
+            },
+            "Amazon Monitron": {
+                "Description": "End-to-end system for equipment monitoring",
+                "FullName": "Amazon Monitron",
+                "Url": "https://aws.amazon.com/monitron/"
+            },
+            "Amazon Personalize": {
+                "Description": "Build real-time recommendations into your applications",
+                "FullName": "Amazon Personalize",
+                "Url": "https://aws.amazon.com/personalize/?c=14&pt=10"
+            },
+            "Amazon Polly": {
+                "Description": "Turn Text into Lifelike Speech",
+                "FullName": "Amazon Polly",
+                "Url": "https://aws.amazon.com/polly/?c=14&pt=11"
+            },
+            "Amazon Rekognition": {
+                "Description": "Analyze Image and Video",
+                "FullName": "Amazon Rekognition",
+                "Url": "https://aws.amazon.com/rekognition/?c=14&pt=12"
+            },
+            "Amazon SageMaker": {
+                "Description": "Build, Train, and Deploy Machine Learning Models at Scale",
+                "FullName": "Amazon SageMaker",
+                "Url": "https://aws.amazon.com/sagemaker/?c=14&pt=1"
+            },
+            "Amazon SageMaker Data Wrangler": {
+                "Description": "The fastest way to prepare data for ML",
+                "FullName": "Amazon SageMaker Data Wrangler",
+                "Url": "https://aws.amazon.com/sagemaker/data-wrangler/"
+            },
+            "Amazon SageMaker Ground Truth": {
+                "Description": "Build accurate ML training datasets",
+                "FullName": "Amazon SageMaker Ground Truth",
+                "Url": "https://aws.amazon.com/sagemaker/groundtruth/?c=14&pt=13"
+            },
+            "Amazon Textract": {
+                "Description": "Extract text and data from documents",
+                "FullName": "Amazon Textract",
+                "Url": "https://aws.amazon.com/textract/?c=14&pt=14"
+            },
+            "Amazon Transcribe": {
+                "Description": "Automatic Speech Recognition",
+                "FullName": "Amazon Transcribe",
+                "Url": "https://aws.amazon.com/transcribe/?c=14&pt=16"
+            },
+            "Amazon Translate": {
+                "Description": "Natural and Fluent Language Translation",
+                "FullName": "Amazon Translate",
+                "Url": "https://aws.amazon.com/translate/?c=14&pt=15"
+            },
+            "Apache MXNet on AWS": {
+                "Description": "Scalable, High-performance Deep Learning",
+                "FullName": "Apache MXNet on AWS",
+                "Url": "https://aws.amazon.com/mxnet/?c=14&pt=23"
+            },
+            "PyTorch on AWS": {
+                "Description": "Flexible open-source machine learning framework",
+                "FullName": "PyTorch on AWS",
+                "Url": "https://aws.amazon.com/pytorch/?c=14&pt=23a"
+            },
+            "TensorFlow on AWS": {
+                "Description": "Open-source Machine Intelligence Library",
+                "FullName": "TensorFlow on AWS",
+                "Url": "https://aws.amazon.com/tensorflow/?c=14&pt=24"
+            }
+        },
+        "Management & Governance": {
+            "AWS Auto Scaling": {
+                "Description": "Scale Multiple Resources to Meet Demand",
+                "FullName": "AWS Auto Scaling",
+                "Url": "https://aws.amazon.com/autoscaling/?c=15&pt=2"
+            },
+            "AWS Chatbot": {
+                "Description": "ChatOps for AWS",
+                "FullName": "AWS Chatbot",
+                "Url": "https://aws.amazon.com/chatbot/?c=15&pt=3"
+            },
+            "AWS CloudFormation": {
+                "Description": "Create and Manage Resources with Templates",
+                "FullName": "AWS CloudFormation",
+                "Url": "https://aws.amazon.com/cloudformation/?c=15&pt=4"
+            },
+            "AWS CloudTrail": {
+                "Description": "Track User Activity and API Usage",
+                "FullName": "AWS CloudTrail",
+                "Url": "https://aws.amazon.com/cloudtrail/?c=15&pt=5"
+            },
+            "AWS Command Line Interface": {
+                "Description": "Unified tool to manage AWS services",
+                "FullName": "AWS Command Line Interface",
+                "Url": "https://aws.amazon.com/cli/?c=15&pt=6"
+            },
+            "AWS Compute Optimizer": {
+                "Description": "Identify optimal AWS Compute resources",
+                "FullName": "AWS Compute Optimizer",
+                "Url": "https://aws.amazon.com/compute-optimizer/?c=15&pt=7"
+            },
+            "AWS Config": {
+                "Description": "Track Resource Inventory and Changes",
+                "FullName": "AWS Config",
+                "Url": "https://aws.amazon.com/config/?c=15&pt=8"
+            },
+            "AWS Console Mobile Application": {
+                "Description": "Access resources on the go",
+                "FullName": "AWS Console Mobile Application",
+                "Url": "https://aws.amazon.com/console/mobile/?c=15&pt=10"
+            },
+            "AWS Control Tower": {
+                "Description": "Set up and govern a secure, compliant, multi-account environment",
+                "FullName": "AWS Control Tower",
+                "Url": "https://aws.amazon.com/controltower/?c=15&pt=9"
+            },
+            "AWS Distro for OpenTelemetry (Preview)": {
+                "Description": "Collect correlated metrics and traces",
+                "FullName": "AWS Distro for OpenTelemetry (Preview)",
+                "Url": "https://aws.amazon.com/otel/?c=15&pt=11a"
+            },
+            "AWS License Manager": {
+                "Description": "Track, manage, and control licenses",
+                "FullName": "AWS License Manager",
+                "Url": "https://aws.amazon.com/license-manager/?c=15&pt=11"
+            },
+            "AWS Managed Services": {
+                "Description": "Infrastructure operations management for AWS",
+                "FullName": "AWS Managed Services",
+                "Url": "https://aws.amazon.com/managed-services/?c=15&pt=13"
+            },
+            "AWS Management Console": {
+                "Description": "Web-based user interface",
+                "FullName": "AWS Management Console",
+                "Url": "https://aws.amazon.com/console/?c=15&pt=12"
+            },
+            "AWS OpsWorks": {
+                "Description": "Automate Operations with Chef and Puppet",
+                "FullName": "AWS OpsWorks",
+                "Url": "https://aws.amazon.com/opsworks/?c=15&pt=14"
+            },
+            "AWS Organizations": {
+                "Description": "Central governance and management across AWS accounts",
+                "FullName": "AWS Organizations",
+                "Url": "https://aws.amazon.com/organizations/?c=15&pt=15"
+            },
+            "AWS Personal Health Dashboard": {
+                "Description": "Personalized View of AWS Service Health",
+                "FullName": "AWS Personal Health Dashboard",
+                "Url": "https://aws.amazon.com/premiumsupport/phd/?c=15&pt=16"
+            },
+            "AWS Proton (Preview)": {
+                "Description": "Automated management for container and serverless deployment",
+                "FullName": "AWS Proton (Preview)",
+                "Url": "https://aws.amazon.com/proton/"
+            },
+            "AWS Service Catalog": {
+                "Description": "Create and Use Standardized Products",
+                "FullName": "AWS Service Catalog",
+                "Url": "https://aws.amazon.com/servicecatalog/?c=15&pt=17"
+            },
+            "AWS Systems Manager": {
+                "Description": "Gain Operational Insights and Take Action",
+                "FullName": "AWS Systems Manager",
+                "Url": "https://aws.amazon.com/systems-manager/?c=15&pt=18"
+            },
+            "AWS Trusted Advisor": {
+                "Description": "Optimize Performance and Security",
+                "FullName": "AWS Trusted Advisor",
+                "Url": "https://aws.amazon.com/trustedadvisor/?c=15&pt=19"
+            },
+            "AWS Well-Architected Tool": {
+                "Description": "Review and improve your workloads",
+                "FullName": "AWS Well-Architected Tool",
+                "Url": "https://aws.amazon.com/well-architected-tool/?c=15&pt=20"
+            },
+            "Amazon CloudWatch": {
+                "Description": "Monitor Resources and Applications",
+                "FullName": "Amazon CloudWatch",
+                "Url": "https://aws.amazon.com/cloudwatch/?c=15&pt=1"
+            }
+        },
+        "Media Services": {
+            "AWS Elemental Appliances & Software": {
+                "Description": "On-premises media solutions",
+                "FullName": "AWS Elemental Appliances & Software",
+                "Url": "https://aws.amazon.com/elemental-appliances-software/?c=16&pt=9"
+            },
+            "AWS Elemental MediaConnect": {
+                "Description": "Reliable and secure live video transport",
+                "FullName": "AWS Elemental MediaConnect",
+                "Url": "https://aws.amazon.com/mediaconnect/?c=16&pt=3"
+            },
+            "AWS Elemental MediaConvert": {
+                "Description": "Convert File-based Video Content",
+                "FullName": "AWS Elemental MediaConvert",
+                "Url": "https://aws.amazon.com/mediaconvert/?c=16&pt=4"
+            },
+            "AWS Elemental MediaLive": {
+                "Description": "Convert Live Video Content",
+                "FullName": "AWS Elemental MediaLive",
+                "Url": "https://aws.amazon.com/medialive/?c=16&pt=5"
+            },
+            "AWS Elemental MediaPackage": {
+                "Description": "Video Origination and Packaging",
+                "FullName": "AWS Elemental MediaPackage",
+                "Url": "https://aws.amazon.com/mediapackage/?c=16&pt=6"
+            },
+            "AWS Elemental MediaStore": {
+                "Description": "Media Storage and Simple HTTP Origin",
+                "FullName": "AWS Elemental MediaStore",
+                "Url": "https://aws.amazon.com/mediastore/?c=16&pt=7"
+            },
+            "AWS Elemental MediaTailor": {
+                "Description": "Video Personalization and Monetization",
+                "FullName": "AWS Elemental MediaTailor",
+                "Url": "https://aws.amazon.com/mediatailor/?c=16&pt=8"
+            },
+            "Amazon Elastic Transcoder": {
+                "Description": "Easy-to-use Scalable Media Transcoding",
+                "FullName": "Amazon Elastic Transcoder",
+                "Url": "https://aws.amazon.com/elastictranscoder/?c=16&pt=1"
+            },
+            "Amazon Interactive Video Service": {
+                "Description": "Managed Live Video Solution",
+                "FullName": "Amazon Interactive Video Service",
+                "Url": "https://aws.amazon.com/ivs/?c=16&pt=2a"
+            },
+            "Amazon Kinesis Video Streams": {
+                "Description": "Process and Analyze Video Streams",
+                "FullName": "Amazon Kinesis Video Streams",
+                "Url": "https://aws.amazon.com/kinesis/video-streams/?c=16&pt=2"
+            }
+        },
+        "Migration & Transfer": {
+            "AWS Application Discovery Service": {
+                "Description": "Discover On-Premises Applications to Streamline Migration",
+                "FullName": "AWS Application Discovery Service",
+                "Url": "https://aws.amazon.com/application-discovery/?c=17&pt=2"
+            },
+            "AWS DataSync": {
+                "Description": "Simple, fast, online data transfer",
+                "FullName": "AWS DataSync",
+                "Url": "https://aws.amazon.com/datasync/?c=17&pt=4"
+            },
+            "AWS Database Migration Service": {
+                "Description": "Migrate Databases with Minimal Downtime",
+                "FullName": "AWS Database Migration Service",
+                "Url": "https://aws.amazon.com/dms/?c=17&pt=3"
+            },
+            "AWS Migration Hub": {
+                "Description": "Track Migrations from a Single Place",
+                "FullName": "AWS Migration Hub",
+                "Url": "https://aws.amazon.com/migration-hub/?c=17&pt=1"
+            },
+            "AWS Server Migration Service ": {
+                "Description": "Migrate On-Premises Servers to AWS",
+                "FullName": "AWS Server Migration Service ",
+                "Url": "https://aws.amazon.com/server-migration-service/?c=17&pt=5"
+            },
+            "AWS Snow Family": {
+                "Description": "Physical devices to migrate data into and out of AWS",
+                "FullName": "AWS Snow Family",
+                "Url": "https://aws.amazon.com/snow/?c=17&pt=6"
+            },
+            "AWS Transfer Family": {
+                "Description": "Fully managed SFTP, FTPS, and FTP service",
+                "FullName": "AWS Transfer Family",
+                "Url": "https://aws.amazon.com/aws-transfer-family/?c=17&pt=7"
+            },
+            "CloudEndure Migration": {
+                "Description": "Automate your mass migration to AWS",
+                "FullName": "CloudEndure Migration",
+                "Url": "https://aws.amazon.com/cloudendure-migration/?c=17&pt=8"
+            },
+            "Migration Evaluator (formerly TSO Logic)": {
+                "Description": "Create a business case for cloud migration",
+                "FullName": "Migration Evaluator (formerly TSO Logic)",
+                "Url": "https://aws.amazon.com/migration-evaluator/?c=17&pt=9"
+            }
+        },
+        "Networking & Content Delivery": {
+            "AWS App Mesh": {
+                "Description": "Monitor and control microservices",
+                "FullName": "AWS App Mesh",
+                "Url": "https://aws.amazon.com/app-mesh/?c=19&pt=6"
+            },
+            "AWS Cloud Map": {
+                "Description": "Application resource registry for microservices",
+                "FullName": "AWS Cloud Map",
+                "Url": "https://aws.amazon.com/cloud-map/?c=19&pt=7"
+            },
+            "AWS Direct Connect": {
+                "Description": "Dedicated Network Connection to AWS",
+                "FullName": "AWS Direct Connect",
+                "Url": "https://aws.amazon.com/directconnect/?c=19&pt=8"
+            },
+            "AWS Global Accelerator": {
+                "Description": "Improve application availability and performance",
+                "FullName": "AWS Global Accelerator",
+                "Url": "https://aws.amazon.com/global-accelerator/?c=19&pt=9"
+            },
+            "AWS PrivateLink": {
+                "Description": "Securely Access Services Hosted on AWS",
+                "FullName": "AWS PrivateLink",
+                "Url": "https://aws.amazon.com/privatelink/?c=19&pt=5"
+            },
+            "AWS Transit Gateway": {
+                "Description": "Easily scale VPC and account connections",
+                "FullName": "AWS Transit Gateway",
+                "Url": "https://aws.amazon.com/transit-gateway/?c=19&pt=10"
+            },
+            "Amazon API Gateway": {
+                "Description": "Build, Deploy, and Manage APIs",
+                "FullName": "Amazon API Gateway",
+                "Url": "https://aws.amazon.com/api-gateway/?c=19&pt=2"
+            },
+            "Amazon CloudFront": {
+                "Description": "Global Content Delivery Network",
+                "FullName": "Amazon CloudFront",
+                "Url": "https://aws.amazon.com/cloudfront/?c=19&pt=3"
+            },
+            "Amazon Route 53": {
+                "Description": "Scalable Domain Name System",
+                "FullName": "Amazon Route 53",
+                "Url": "https://aws.amazon.com/route53/?c=19&pt=4"
+            },
+            "Amazon VPC": {
+                "Description": "Isolated Cloud Resources",
+                "FullName": "Amazon VPC",
+                "Url": "https://aws.amazon.com/vpc/?c=19&pt=1"
+            },
+            "Elastic Load Balancing": {
+                "Description": "Distribute incoming traffic across multiple targets",
+                "FullName": "Elastic Load Balancing",
+                "Url": "https://aws.amazon.com/elasticloadbalancing/?c=7&pt=11"
+            }
+        },
+        "Quantum Technologies": {
+            "Amazon Braket": {
+                "Description": "Explore and experiment with quantum computing",
+                "FullName": "Amazon Braket",
+                "Url": "https://aws.amazon.com/braket/"
+            }
+        },
+        "Robotics": {
+            "AWS RoboMaker": {
+                "Description": "Develop, test, and deploy robotics applications",
+                "FullName": "AWS RoboMaker",
+                "Url": "https://aws.amazon.com/robomaker/?c=20&pt=1"
+            }
+        },
+        "Satellite": {
+            "AWS Ground Station": {
+                "Description": "Fully managed ground station as a service",
+                "FullName": "AWS Ground Station",
+                "Url": "https://aws.amazon.com/ground-station/?c=21&pt=1"
+            }
+        },
+        "Security, Identity & Compliance": {
+            "AWS Artifact": {
+                "Description": "On-demand access to AWS compliance reports",
+                "FullName": "AWS Artifact",
+                "Url": "https://aws.amazon.com/artifact/?c=22&pt=7"
+            },
+            "AWS Certificate Manager": {
+                "Description": "Provision, Manage, and Deploy SSL/TLS Certificates",
+                "FullName": "AWS Certificate Manager",
+                "Url": "https://aws.amazon.com/certificate-manager/?c=22&pt=8"
+            },
+            "AWS CloudHSM": {
+                "Description": "Hardware-based Key Storage for Regulatory Compliance",
+                "FullName": "AWS CloudHSM",
+                "Url": "https://aws.amazon.com/cloudhsm/?c=22&pt=9"
+            },
+            "AWS Directory Service": {
+                "Description": "Host and Manage Active Directory",
+                "FullName": "AWS Directory Service",
+                "Url": "https://aws.amazon.com/directoryservice/?c=22&pt=10"
+            },
+            "AWS Firewall Manager": {
+                "Description": "Central Management of Firewall Rules",
+                "FullName": "AWS Firewall Manager",
+                "Url": "https://aws.amazon.com/firewall-manager/?c=22&pt=11"
+            },
+            "AWS Identity & Access Management": {
+                "Description": "Securely manage access to services and resources",
+                "FullName": "AWS Identity & Access Management",
+                "Url": "https://aws.amazon.com/iam/?c=22&pt=1"
+            },
+            "AWS Key Management Service": {
+                "Description": "Managed Creation and Control of Encryption Keys",
+                "FullName": "AWS Key Management Service",
+                "Url": "https://aws.amazon.com/kms/?c=22&pt=12"
+            },
+            "AWS Network Firewall": {
+                "Description": "Network security to protect your VPCs",
+                "FullName": "AWS Network Firewall",
+                "Url": "https://aws.amazon.com/network-firewall/?c=22&pt=13a"
+            },
+            "AWS Resource Access Manager": {
+                "Description": "Simple, secure service to share AWS resources",
+                "FullName": "AWS Resource Access Manager",
+                "Url": "https://aws.amazon.com/ram/?c=22&pt=13"
+            },
+            "AWS Secrets Manager": {
+                "Description": "Rotate, Manage, and Retrieve Secrets",
+                "FullName": "AWS Secrets Manager",
+                "Url": "https://aws.amazon.com/secrets-manager/?c=22&pt=14"
+            },
+            "AWS Security Hub": {
+                "Description": "Unified security and compliance center",
+                "FullName": "AWS Security Hub",
+                "Url": "https://aws.amazon.com/security-hub/?c=22&pt=15"
+            },
+            "AWS Shield": {
+                "Description": "DDoS Protection",
+                "FullName": "AWS Shield",
+                "Url": "https://aws.amazon.com/shield/?c=22&pt=16"
+            },
+            "AWS Single Sign-On": {
+                "Description": "Cloud Single Sign-On (SSO) Service",
+                "FullName": "AWS Single Sign-On",
+                "Url": "https://aws.amazon.com/single-sign-on/?c=22&pt=17"
+            },
+            "AWS WAF": {
+                "Description": "Filter Malicious Web Traffic",
+                "FullName": "AWS WAF",
+                "Url": "https://aws.amazon.com/waf/?c=22&pt=18"
+            },
+            "Amazon Cognito": {
+                "Description": "Identity Management for your Apps",
+                "FullName": "Amazon Cognito",
+                "Url": "https://aws.amazon.com/cognito/?c=22&pt=2"
+            },
+            "Amazon Detective": {
+                "Description": "Investigate potential security issues",
+                "FullName": "Amazon Detective",
+                "Url": "https://aws.amazon.com/detective/?c=22&pt=3"
+            },
+            "Amazon GuardDuty": {
+                "Description": "Managed Threat Detection Service",
+                "FullName": "Amazon GuardDuty",
+                "Url": "https://aws.amazon.com/guardduty/?c=22&pt=4"
+            },
+            "Amazon Inspector": {
+                "Description": "Analyze Application Security",
+                "FullName": "Amazon Inspector",
+                "Url": "https://aws.amazon.com/inspector/?c=22&pt=5"
+            },
+            "Amazon Macie": {
+                "Description": "Discover and protect your sensitive data at scale",
+                "FullName": "Amazon Macie",
+                "Url": "https://aws.amazon.com/macie/?c=22&pt=6"
+            }
+        },
+        "Serverless": {
+            "AWS AppSync": {
+                "Description": "Power your apps with the right data from many sources, at scale",
+                "FullName": "AWS AppSync",
+                "Url": "https://aws.amazon.com/appsync/?c=23&pt=8"
+            },
+            "AWS Fargate": {
+                "Description": "Serverless compute for containers",
+                "FullName": "AWS Fargate",
+                "Url": "https://aws.amazon.com/fargate/?c=23&pt=9"
+            },
+            "AWS Lambda": {
+                "Description": "Run code without thinking about servers",
+                "FullName": "AWS Lambda",
+                "Url": "https://aws.amazon.com/lambda/?c=23&pt=1"
+            },
+            "AWS Step Functions": {
+                "Description": "Coordination for distributed applications",
+                "FullName": "AWS Step Functions",
+                "Url": "https://aws.amazon.com/step-functions/?c=23&pt=10"
+            },
+            "Amazon API Gateway": {
+                "Description": "Build, deploy, and manage API's",
+                "FullName": "Amazon API Gateway",
+                "Url": "https://aws.amazon.com/api-gateway/?c=23&pt=2"
+            },
+            "Amazon DynamoDB": {
+                "Description": "Managed NoSQL database",
+                "FullName": "Amazon DynamoDB",
+                "Url": "https://aws.amazon.com/dynamodb/?c=23&pt=3"
+            },
+            "Amazon EventBridge": {
+                "Description": "Serverless event bus for SaaS apps & AWS services",
+                "FullName": "Amazon EventBridge",
+                "Url": "https://aws.amazon.com/eventbridge/?c=23&pt=4"
+            },
+            "Amazon Simple Notification Service (SNS)": {
+                "Description": "Pub/sub, SMS, email, and mobile push notifications",
+                "FullName": "Amazon Simple Notification Service (SNS)",
+                "Url": "https://aws.amazon.com/sns/?c=23&pt=5"
+            },
+            "Amazon Simple Queue Service (SQS) ": {
+                "Description": "Managed message queues",
+                "FullName": "Amazon Simple Queue Service (SQS) ",
+                "Url": "https://aws.amazon.com/sqs/?c=23&pt=6"
+            },
+            "Amazon Simple Storage Service (S3)": {
+                "Description": "Scalable storage in the cloud",
+                "FullName": "Amazon Simple Storage Service (S3)",
+                "Url": "https://aws.amazon.com/s3/?c=23&pt=7"
+            }
+        },
+        "Storage": {
+            "AWS Backup": {
+                "Description": "Centralized backup across AWS services",
+                "FullName": "AWS Backup",
+                "Url": "https://aws.amazon.com/backup/?c=24&pt=7"
+            },
+            "AWS Snow Family": {
+                "Description": "Physical edge computing and storage devices for rugged or disconnected environments",
+                "FullName": "AWS Snow Family",
+                "Url": "https://aws.amazon.com/snow/?c=24&pt=8"
+            },
+            "AWS Storage Gateway": {
+                "Description": "Hybrid Storage Integration",
+                "FullName": "AWS Storage Gateway",
+                "Url": "https://aws.amazon.com/storagegateway/?c=24&pt=9"
+            },
+            "Amazon Elastic Block Store (EBS)": {
+                "Description": "EC2 block storage volumes",
+                "FullName": "Amazon Elastic Block Store (EBS)",
+                "Url": "https://aws.amazon.com/ebs/?c=24&pt=2"
+            },
+            "Amazon Elastic File System (EFS)": {
+                "Description": "Fully managed file system for EC2",
+                "FullName": "Amazon Elastic File System (EFS)",
+                "Url": "https://aws.amazon.com/efs/?c=24&pt=3"
+            },
+            "Amazon FSx for Lustre": {
+                "Description": "High-performance file system integrated with S3",
+                "FullName": "Amazon FSx for Lustre",
+                "Url": "https://aws.amazon.com/fsx/lustre/?c=24&pt=4"
+            },
+            "Amazon FSx for Windows File Server": {
+                "Description": "Fully managed Windows native file system",
+                "FullName": "Amazon FSx for Windows File Server",
+                "Url": "https://aws.amazon.com/fsx/windows/?c=24&pt=5"
+            },
+            "Amazon S3 Glacier": {
+                "Description": "Low-cost Archive Storage in the Cloud",
+                "FullName": "Amazon S3 Glacier",
+                "Url": "https://aws.amazon.com/glacier1/?c=24&pt=6"
+            },
+            "Amazon Simple Storage Service (S3)": {
+                "Description": "Scalable Storage in the Cloud",
+                "FullName": "Amazon Simple Storage Service (S3)",
+                "Url": "https://aws.amazon.com/s3/?c=24&pt=1"
+            },
+            "CloudEndure Disaster Recovery": {
+                "Description": "Highly automated disaster recovery",
+                "FullName": "CloudEndure Disaster Recovery",
+                "Url": "https://aws.amazon.com/cloudendure-disaster-recovery/?c=24&pt=10"
+            }
+        },
+        "VR & AR": {
+            "Amazon Sumerian": {
+                "Description": "Build and Run VR and AR Applications",
+                "FullName": "Amazon Sumerian",
+                "Url": "https://aws.amazon.com/sumerian/?c=25&pt=1"
+            }
+        }
+    }
+}
