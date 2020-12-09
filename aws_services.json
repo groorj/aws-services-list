@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2020-12-03 21:33:03.968023+00:00",
+        "GeneratedAt": "2020-12-09 15:38:26.987224+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -648,6 +648,11 @@
                 "FullName": "Amazon Lookout for Equipment (Preview)",
                 "Url": "https://aws.amazon.com/lookout-for-equipment/"
             },
+            "Amazon Lookout for Metrics": {
+                "Description": "Detect anomalies in metrics",
+                "FullName": "Amazon Lookout for Metrics",
+                "Url": "https://aws.amazon.com/lookout-for-metrics/"
+            },
             "Amazon Lookout for Vision": {
                 "Description": "Spot product defects using computer vision",
                 "FullName": "Amazon Lookout for Vision",
@@ -1013,6 +1018,11 @@
                 "Description": "On-demand access to AWS compliance reports",
                 "FullName": "AWS Artifact",
                 "Url": "https://aws.amazon.com/artifact/?c=22&pt=7"
+            },
+            "AWS Audit Manager": {
+                "Description": "Continuously audit your AWS usage",
+                "FullName": "AWS Audit Manager",
+                "Url": "https://aws.amazon.com/audit-manager/"
             },
             "AWS Certificate Manager": {
                 "Description": "Provision, Manage, and Deploy SSL/TLS Certificates",
