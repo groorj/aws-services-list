@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2020-12-10 17:58:29.349684+00:00",
+        "GeneratedAt": "2020-12-15 22:00:40.880411+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -378,6 +378,11 @@
                 "FullName": "AWS Cloud9",
                 "Url": "https://aws.amazon.com/cloud9/?c=10&pt=3"
             },
+            "AWS CloudShell": {
+                "Description": "Browser-based shell environment",
+                "FullName": "AWS CloudShell",
+                "Url": "https://aws.amazon.com/cloudshell/?c=10&pt=4b"
+            },
             "AWS CodeArtifact": {
                 "Description": "Secure, scalable, and cost-effective artifact management for software development",
                 "FullName": "AWS CodeArtifact",
@@ -417,6 +422,11 @@
                 "Description": "Test Android, iOS, and web apps on real devices in the AWS cloud",
                 "FullName": "AWS Device Farm",
                 "Url": "https://aws.amazon.com/device-farm/?c=10&pt=10"
+            },
+            "AWS Fault Injection Simulator": {
+                "Description": "Fully managed chaos engineering service",
+                "FullName": "AWS Fault Injection Simulator",
+                "Url": "https://aws.amazon.com/fis/?c=10&pt=10a"
             },
             "AWS Tools and SDKs": {
                 "Description": "Tools and SDKs for AWS",
@@ -834,6 +844,16 @@
                 "Description": "Monitor Resources and Applications",
                 "FullName": "Amazon CloudWatch",
                 "Url": "https://aws.amazon.com/cloudwatch/?c=15&pt=1"
+            },
+            "Amazon Managed Service for Grafana": {
+                "Description": "Powerful interactive data visualizations",
+                "FullName": "Amazon Managed Service for Grafana",
+                "Url": "https://aws.amazon.com/grafana/?c=15&pt=14"
+            },
+            "Amazon Managed Service for Prometheus": {
+                "Description": "Highly available, secure monitoring for containers",
+                "FullName": "Amazon Managed Service for Prometheus",
+                "Url": "https://aws.amazon.com/prometheus/?c=15&pt=14"
             }
         },
         "Media Services": {
