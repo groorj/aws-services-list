@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2020-12-15 22:00:40.880411+00:00",
+        "GeneratedAt": "2020-12-16 22:00:41.879192+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -491,6 +491,11 @@
                 "Description": "Build, Deploy, and Manage APIs",
                 "FullName": "Amazon API Gateway",
                 "Url": "https://aws.amazon.com/api-gateway/?c=18&pt=2"
+            },
+            "Amazon Location Service (Preview)": {
+                "Description": "Securely and easily add location data to applications",
+                "FullName": "Amazon Location Service (Preview)",
+                "Url": "https://aws.amazon.com/location/?c=18&pt=3"
             },
             "Amazon Pinpoint": {
                 "Description": "Personalized User Engagement Across Channels",
