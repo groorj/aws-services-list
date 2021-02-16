@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2020-12-16 22:00:41.879192+00:00",
+        "GeneratedAt": "2021-02-16 22:00:40.607430+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -236,6 +236,11 @@
                 "Description": "Containerize and migrate existing applications",
                 "FullName": "AWS App2Container",
                 "Url": "https://aws.amazon.com/app2container/?c=7a&pt=1a"
+            },
+            "AWS Copilot": {
+                "Description": "Easily deploy and operate containerized applications",
+                "FullName": "AWS Copilot",
+                "Url": "https://aws.amazon.com/containers/copilot/?c=7a&pt=1b"
             },
             "AWS Fargate": {
                 "Description": "Serverless compute for containers",
