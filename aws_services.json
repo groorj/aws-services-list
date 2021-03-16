@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2021-02-16 22:00:40.607430+00:00",
+        "GeneratedAt": "2021-03-16 10:00:40.762380+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -429,7 +429,7 @@
                 "Url": "https://aws.amazon.com/device-farm/?c=10&pt=10"
             },
             "AWS Fault Injection Simulator": {
-                "Description": "Fully managed chaos engineering service",
+                "Description": "Fully managed fault injection service",
                 "FullName": "AWS Fault Injection Simulator",
                 "Url": "https://aws.amazon.com/fis/?c=10&pt=10a"
             },
