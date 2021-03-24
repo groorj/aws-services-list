@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2021-03-16 10:00:40.762380+00:00",
+        "GeneratedAt": "2021-03-24 22:00:40.779008+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -574,7 +574,7 @@
             "AWS Partner Device Catalog": {
                 "Description": "Curated catalog of AWS-compatible IoT hardware",
                 "FullName": "AWS Partner Device Catalog",
-                "Url": "https://aws.amazon.com/partners/dqp/?c=13&pt=12"
+                "Url": "https://aws.amazon.com/partners/programs/dqp/?c=13&pt=12"
             },
             "FreeRTOS": {
                 "Description": "Real-time operating system for microcontrollers",
@@ -652,6 +652,11 @@
                 "Description": "Detect more online fraud faster",
                 "FullName": "Amazon Fraud Detector",
                 "Url": "https://aws.amazon.com/fraud-detector/?c=14&pt=7"
+            },
+            "Amazon Healthlake": {
+                "Description": "Make sense of health data",
+                "FullName": "Amazon Healthlake",
+                "Url": "https://aws.amazon.com/healthlake/?c=14&pt=8a"
             },
             "Amazon Kendra": {
                 "Description": "Reinvent enterprise search with ML",
