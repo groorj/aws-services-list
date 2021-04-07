@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2021-03-24 22:00:40.779008+00:00",
+        "GeneratedAt": "2021-04-07 22:00:40.730014+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -929,6 +929,11 @@
                 "FullName": "AWS Application Discovery Service",
                 "Url": "https://aws.amazon.com/application-discovery/?c=17&pt=2"
             },
+            "AWS Application Migration Service (CloudEndure Migration)": {
+                "Description": "Automated lift-and-shift migration",
+                "FullName": "AWS Application Migration Service (CloudEndure Migration)",
+                "Url": "https://aws.amazon.com/application-migration-service/?c=17&pt=3a"
+            },
             "AWS DataSync": {
                 "Description": "Simple, fast, online data transfer",
                 "FullName": "AWS DataSync",
@@ -958,11 +963,6 @@
                 "Description": "Fully managed SFTP, FTPS, and FTP service",
                 "FullName": "AWS Transfer Family",
                 "Url": "https://aws.amazon.com/aws-transfer-family/?c=17&pt=7"
-            },
-            "CloudEndure Migration": {
-                "Description": "Automate your mass migration to AWS",
-                "FullName": "CloudEndure Migration",
-                "Url": "https://aws.amazon.com/cloudendure-migration/?c=17&pt=8"
             },
             "Migration Evaluator (formerly TSO Logic)": {
                 "Description": "Create a business case for cloud migration",
