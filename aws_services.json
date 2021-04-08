@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2021-04-07 22:00:40.730014+00:00",
+        "GeneratedAt": "2021-04-08 22:00:40.658299+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -668,9 +668,9 @@
                 "FullName": "Amazon Lex",
                 "Url": "https://aws.amazon.com/lex/?c=14&pt=9"
             },
-            "Amazon Lookout for Equipment (Preview)": {
+            "Amazon Lookout for Equipment": {
                 "Description": "Detect abnormal behavior by analyzing sensor data",
-                "FullName": "Amazon Lookout for Equipment (Preview)",
+                "FullName": "Amazon Lookout for Equipment",
                 "Url": "https://aws.amazon.com/lookout-for-equipment/"
             },
             "Amazon Lookout for Metrics": {
