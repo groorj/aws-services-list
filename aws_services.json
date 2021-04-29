@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2021-04-24 10:00:40.709535+00:00",
+        "GeneratedAt": "2021-04-29 10:00:40.738539+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -120,7 +120,7 @@
             "": {
                 "Description": "",
                 "FullName": "",
-                "Url": "https://aws.amazon.com/elemental-appliances-software/?c=16&pt=9"
+                "Url": "https://aws.amazon.com/nimble-studio/?c=16&pt=10"
             }
         },
         "Migration & Transfer": {
