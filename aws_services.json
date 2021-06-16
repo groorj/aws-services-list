@@ -1,16 +1,9 @@
 {
     "Info": {
-        "GeneratedAt": "2021-05-12 22:00:41.121831+00:00",
+        "GeneratedAt": "2021-06-16 22:00:40.906966+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
-        "AWS Cost Management": {
-            "": {
-                "Description": "Savings Plans",
-                "FullName": "",
-                "Url": "https://aws.amazon.com/savingsplans/?c=4&pt=5"
-            }
-        },
         "Analytics": {
             "": {
                 "Description": "AWS Lake Formation",
@@ -37,6 +30,13 @@
                 "Description": "Amazon WorkMail",
                 "FullName": "",
                 "Url": "https://aws.amazon.com/workmail/?c=6&pt=4"
+            }
+        },
+        "Cloud Financial Management": {
+            "": {
+                "Description": "Savings Plans",
+                "FullName": "",
+                "Url": "https://aws.amazon.com/savingsplans/?c=4&pt=5"
             }
         },
         "Compute": {
