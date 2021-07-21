@@ -1,6 +1,6 @@
 {
     "Info": {
-        "GeneratedAt": "2021-06-16 22:00:40.906966+00:00",
+        "GeneratedAt": "2021-07-21 22:00:41.305277+00:00",
         "OriginalFileUrl": "https://raw.githubusercontent.com/groorj/aws-services-list/main/aws_services.json"
     },
     "Services": {
@@ -13,7 +13,7 @@
         },
         "Application Integration": {
             "": {
-                "Description": "Amazon AppSync",
+                "Description": "AWS AppSync",
                 "FullName": "",
                 "Url": "https://aws.amazon.com/appsync/?c=2&pt=6"
             }
@@ -118,9 +118,9 @@
         },
         "Media Services": {
             "": {
-                "Description": "AWS Nimble Studio",
+                "Description": "AWS Elemental Appliances & Software",
                 "FullName": "",
-                "Url": "https://aws.amazon.com/nimble-studio/?c=16&pt=10"
+                "Url": "https://aws.amazon.com/elemental-appliances-software/?c=16&pt=9"
             }
         },
         "Migration & Transfer": {
